@@ -23,8 +23,8 @@ export function Login(){
                     </div>
                     <div className="row">
                         <div className="col p-3 d-flex gap-3">
-                            <button onClick={Entrar} className="btn btn-outline-primary w-25">Entrar</button>
-                            <button onClick={Registar} className="btn btn-outline-success w-25">Registar</button>
+                            <button onClick={Entrar} className="btn btn-outline-primary">Entrar</button>
+                            <button onClick={Registar} className="btn btn-outline-success">Registar</button>
                         </div>
                     </div>
                 </div>
